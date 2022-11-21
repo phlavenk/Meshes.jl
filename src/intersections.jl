@@ -152,6 +152,7 @@ include("intersections/segmentplane.jl")
 include("intersections/segmenttriangle.jl")
 include("intersections/raytriangle.jl")
 include("intersections/geompolygon.jl")
+include("intersections/planemesh.jl")
 
 # ------------------------
 # MISSING IMPLEMENTATIONS
